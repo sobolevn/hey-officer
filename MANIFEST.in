@@ -1,0 +1,2 @@
+recursive-include hey_officer *.py
+include LICENSE README.rst
