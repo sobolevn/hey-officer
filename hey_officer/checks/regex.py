@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# TODO(@sobolevn): implement checks for certificates and general secrets
 
 import re
 

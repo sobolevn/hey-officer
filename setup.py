@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# TODO(@sobolevn): fix setup.py. We need proper classifiers, description and README.rst
 
 import io
 import os

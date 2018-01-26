@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# TODO(@sobolevn): implement filename plugin to check for filenames like:
+# .crt, .key, .pem, .env
 
 
 regexes = {

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# TODO(@sobolevn): create errors for files and entropy
 
 
 class _BaseSecurityError(Exception):
